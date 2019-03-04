@@ -1,8 +1,8 @@
 name: class_builder
 description: util for string based class initialization
 version: 0.0.1
-author:
-homepage:
+author: qqmikey qqmikey@icloud.com
+homepage: https://github.com/qqmikey/class_builder
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
