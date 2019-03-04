@@ -1,6 +1,6 @@
 name: class_builder
 description: util for string based class initialization (may be usefull for dynamic class init for example backend based data)
-version: 1.0.0
+version: 1.0.1
 author: qqmikey <qqmikey@icloud.com>
 homepage: https://github.com/qqmikey/class_builder
 

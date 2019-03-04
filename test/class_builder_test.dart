@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:class_builder/main.dart';
+import 'package:class_builder/class_builder.dart';
 
 class ClassBuilderTest {}
 

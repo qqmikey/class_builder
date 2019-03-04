@@ -1,4 +1,4 @@
-import 'package:class_builder/main.dart';
+import 'package:class_builder/class_builder.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
